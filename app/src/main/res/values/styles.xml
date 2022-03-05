@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/colorPrimary</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <!--title and buttons text size-->
+        <item name="android:textSize">23dp</item>
+
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonDialog</item>
+
+        <!--dialog background-->
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+    <style name="PositiveButtonDialog">
+        <item name="android:background">#00FFFFFF</item>
+        <item name="android:textColor">#DD2C00</item>
+    </style>
+
+</resources>

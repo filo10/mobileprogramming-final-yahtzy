@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Yahtzy</string>
+    <string name="start_game">Start game</string>
+    <string name="standings">Standings</string>
+    <string name="dice">Dice</string>
+    <string name="give_up">Give up</string>
+    <string name="roll">Roll</string>
+    <string name="sign">Sign</string>
+    <string name="str_tv_score">SCORE:</string>
+    <string name="bonus">Bonus</string>
+    <string name="reset">reset</string>
+    <string name="roll_0_left">Roll (0)</string>
+    <string name="exit">Exit</string>
+    <string name="back_to_menu">Do you want to go back to the main menù?</string>
+    <string name="game_ended">Game ended</string>
+    <string name="stay">Stay</string>
+    <string name="play_again">Play again</string>
+    <string name="highscore_delete">Standings deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="one">Aces</string>
+    <string name="three_of_a_kind">Three of a kind</string>
+    <string name="two">Twos</string>
+    <string name="four_of_a_kind">Four of a kind</string>
+    <string name="three">Threes</string>
+    <string name="small_straight">Small straight</string>
+    <string name="four">Fours</string>
+    <string name="large_straight">Large straight</string>
+    <string name="five">Fives</string>
+    <string name="full_house">Full house</string>
+    <string name="six">Sixes</string>
+    <string name="game_ended_message">You scored %d points!</string>
+    <string name="give_up_message">Do you really want to give up? You will go back to the main menù and every progress of this game will be lost</string>
+    <string name="chance">Chance</string>
+    <string name="new_highscore">New\nHighscore</string>
+    <string name="got_it">Got it</string>
+    <string name="instruction_title">How to play</string>
+
+    <string name="instruction_message">Yahtzy is a strategy game to play with 5 dice. You play alone and your purpose is to get the highest score you
+        can.\nThere are 13 rounds during which you need to roll your dice and sign the score in one of the available combination box u want to sign
+        (except the bonus box). You must sign one combination box in each round, also you can roll your dice a maximum of three times per round and
+        you can choose which dice to keep.\n\nCombinations\n\nLeft Column\n\nOne: Sum of dice with number 1.\nTwo: Sum of dice with number 2.\nThree:
+        Sum of dice with number 3.\nFour: Sum of dice with number 4.\nFive: Sum of dice with number 5.\nSix: Sum of dice with number 6.\n\nRight Column\n\nThree
+        of a kind: At least three dice the same, score is the sum of all dice.\nFour of a kind: At least four dice the same, score is the sum of all dice.\nSmall
+        straight: (30 pts) Four sequential dice.\nLarge straight: (40 pts) Five sequential dice.\nFull house: (25 pts) Three of one number and two of another.\nYahtzy:
+        (50 pts) All five dice the same.\nChance: Sum of all dice.\n\nRules\n\nBonus: If you score a total number of 63 or more
+        in the left column, then you get a +35 bonus score.\nYahtzee bonus: If you already signed the Yahtzy combination box with a 50 and you score another Yahtzy, you get +100 extra points.
+        If the Yahtzee box was signed with 0, you get no extra points. In either case you choose another combination box to sign depending on the joker rule.\nJoker:
+        If you score a Yahtzy but the respective combination box was already signed, then if the left column section corresponding to the Yahtzee dice faces was already signed, you can sign one of the available combination box between Full house, Small straight and Large straight even if dice does not correspond or another available combination box.</string>
+
+</resources>

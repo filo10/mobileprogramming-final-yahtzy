@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yahtzy</string>
+    <string name="start_game">Inizia a giocare</string>
+    <string name="bonus">Bonus</string>
+    <string name="give_up_message">Vuoi davvero arrenderti? Tornerai al menù principale e ogni progresso di questa partita sarà perso</string>
+    <string name="game_ended_message">Hai totalizzato %d punti!</string>
+    <string name="back_to_menu">Vuoi tornare al menù principale?</string>
+    <string name="exit">Esci</string>
+    <string name="dice">Dado</string>
+    <string name="five">Cinque</string>
+    <string name="four">Quattro</string>
+    <string name="four_of_a_kind">Poker</string>
+    <string name="full_house">Full</string>
+    <string name="game_ended">Partita terminata</string>
+    <string name="give_up">Mi arrendo</string>
+    <string name="highscore_delete">Classifica cancellata</string>
+    <string name="large_straight">Grande scala</string>
+    <string name="one">Uno</string>
+    <string name="play_again">Gioca ancora</string>
+    <string name="reset">resetta</string>
+    <string name="roll">Lancia</string>
+    <string name="roll_0_left">Lancia (0)</string>
+    <string name="sign">Segna</string>
+    <string name="six">Sei</string>
+    <string name="small_straight">Piccola scala</string>
+    <string name="standings">Classifica</string>
+    <string name="stay">Rimani</string>
+    <string name="str_tv_score">PUNTI:</string>
+    <string name="three">Tre</string>
+    <string name="three_of_a_kind">Tris</string>
+    <string name="two">Due</string>
+    <string name="undo">ANNULLA</string>
+    <string name="chance">Chance</string>
+    <string name="new_highscore">Nuovo\nhighscore</string>
+    <string name="instruction_title">Come si gioca</string>
+    <string name="got_it">Ho capito</string>
+
+    <string name="instruction_message">"Yahtzy è un gioco di strategia che si svolge con 5 dadi. Si gioca da soli e lo scopo è di ottenere il punteggio più alto possibile.\nCi sono 13 turni durante i quali bisogna lanciare i dadi e riempire una delle caselle libere corrispondenti ad una delle 13 combinazioni (esclusa la casella del bonus).\nIn ogni turno si possono lanciare i 5 dadi un massimo di 3 volte ed è possibile scegliere quali dadi non rilanciare.\n\nCombinazioni\nColonna di sinistra\nUno: Somma dei dadi con faccia 1.\nDue: Somma dei dadi con faccia 2.\nTre: Somma dei dadi con faccia 3.\nQuattro: Somma dei dadi con faccia 4.\nCinque: Somma dei dadi con faccia 5.\nSei: Somma dei dadi con faccia 6.\n\nColonna di destra\nTris: Quando 3 dei 5 dadi sono uguali, il punteggio è dato dalla somma di tutti i dadi.\nPoker: Quando 4 dei 5 dadi sono uguali, il punteggio è dato dalla somma di tutti i dadi.\nPiccola scala: (30 pti) Quando 4 dadi sono ordinati in modo crescente.\nGrande scala: (40 pti) Quando 5 dadi sono ordinati in modo crescente.\nFull: (25 pti) Quando 3 dadi sono uguali ma diversi da gli altri 2 che sono tra loro uguali (poker).\nYahtzy: (50 pti) Quando tutti i dadi sono uguali.\nChance: Somma di tutti i dadi.\n\nRegole\nBonus: Se nella colonna di sinistra si raggiunge il punteggio minimo di 63 punti, viene conferito un bonus di 35 punti.\nYahtzy bonus: si applica quando il giocatore realizza uno Yahtzy ma la combinazione è già stata segnata. Se è già stata segnata con 50, allora il giocatore ottiene un bonus extra di 100 punti, altrimenti nulla. In entrambi i casi il giocatore deve segnare il punteggio in una combinazione libera a seconda della regola joker.\nJoker: Se il giocatore realizza uno Yahtzy ma la combinazione è già stata segnata, allora se la combinazione corrispondente nella colonna di sinistra (Uno-Sei)è già stata segnata può scegliere di segnare una combinazione libera tra full, grande scala e piccola scala anche se i dadi non corrispondono oppure una qualsiasi combinazione libera."</string>
+
+</resources>
